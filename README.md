@@ -1,2 +1,12 @@
-# port-scanner-python
-A beginner-friendly Python port scanner that scans open ports (1-1024) on a given IP address or domain. Demonstrates socket programming and basic network security concepts.
+# Port Scanner using Python
+
+A simple command-line tool to scan open ports on a given IP address or domain.  
+Created as a basic cybersecurity project to demonstrate socket programming and network scanning.
+
+## How to Use
+Run this script using Python 3:
+
+
+## Technologies
+- Python
+- socket library
